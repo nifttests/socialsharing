@@ -143,9 +143,11 @@
 		</div>
 		<div class="hidden-xs col-sm-12 col-md-10 col-lg-10 col-lg-offset-1" style="padding-top: 28px;">
 			<h2>Our Facebook page updates:</h2>
+			<include 'facebook_feed.php' />
 		</div>
 	</div>
 </section>
+
 <!-- DESKTOP : PULL LIVE FACEBOOk FEED | USE YOUR NIFT TO SUPPORT A GREAT LOCAL LOCAL BUSINESS (ORANGE) AND FOOTER -->
 <!-- MOBILE : FOOTER -->
 
